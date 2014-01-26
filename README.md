@@ -13,6 +13,6 @@ The Project was implemented in C#, which does not contain native support for Mat
 
 The Algorithm implemented can itself take in any matrix as a parameter. Howevever, as part of the project, I ran preset and randomized tests on the algorithm. After each run, the results are plotted into an Excel Spreadseet, so that the data collected can be visualized in a graphical view. 
 
-To run the project, esecute the executable file. 
+To run the project, esecute the executable file. The results are plotted in Report.xlsx.
 
 Project by Ravish Chawla
